@@ -2,7 +2,7 @@
 
 **Production-grade satellite-driven climate risk analytics & AI-powered financial intelligence using Google Earth Engine and Yahoo Finance**
 
-![Dashboard Preview](climate_alpha_ai_dashboard.png)
+![Dashboard Preview](eda_environmental.png)
 
 ---
 
