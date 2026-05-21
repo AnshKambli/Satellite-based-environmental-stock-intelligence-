@@ -1,0 +1,1043 @@
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║           CLIMATE ALPHA AI - EXECUTIVE INVESTMENT REPORT                       ║
+║        Satellite-Based Environmental Risk & Stock Prediction Platform          ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+Report Generated: 2026-05-21 09:42:24
+Analysis Period: 2023-05-22 to 2026-05-21
+
+================================================================================
+1. PORTFOLIO OVERVIEW
+================================================================================
+
+Total Stocks Analyzed: 6
+Regions Covered: 4
+Data Points (Environmental): 720
+Data Points (Stock Market): 8151
+
+Signal Distribution:
+  • BUY     :  0 stocks (  0.0%)
+  • HOLD    :  4 stocks ( 66.7%)
+  • REDUCE  :  2 stocks ( 33.3%)
+  • SELL    :  0 stocks (  0.0%)
+
+
+Risk Distribution:
+  • Very Low  :  0 stocks (  0.0%)
+  • Low       :  0 stocks (  0.0%)
+  • Medium    :  0 stocks (  0.0%)
+  • High      :  6 stocks (100.0%)
+  • Very High :  0 stocks (  0.0%)
+
+
+================================================================================
+2. TOP INVESTMENT OPPORTUNITIES
+================================================================================
+
+BUY Signals (High Confidence):
+
+  No BUY signals at this time.
+
+HIGH RISK Stocks (Reduce/Sell):
+
+  • HEROMOTOCO.NS   (Sector: Auto      )
+      Score:   46.4/100 | Risk: High       | ESG: 65.0
+  • MARUTI.NS       (Sector: Auto      )
+      Score:   47.3/100 | Risk: High       | ESG: 65.0
+
+================================================================================
+3. ENVIRONMENTAL RISK ANALYSIS
+================================================================================
+
+Regional Pollution Index:
+
+  • Bangalore      :   87.9/100
+      NO2:   84.9 | CH4:   83.0 | Aerosol:   96.8
+  • Bangalore      :   87.6/100
+      NO2:   70.2 | CH4:  100.0 | Aerosol:   98.4
+  • Mumbai         :   79.2/100
+      NO2:   88.2 | CH4:   77.7 | Aerosol:   68.7
+  • Mumbai         :   76.3/100
+      NO2:   95.5 | CH4:   49.5 | Aerosol:   77.6
+  • Hyderabad      :   76.1/100
+      NO2:   97.9 | CH4:   59.8 | Aerosol:   63.2
+  • Delhi          :   75.4/100
+      NO2:   53.1 | CH4:   80.6 | Aerosol:  100.0
+  • Hyderabad      :   74.7/100
+      NO2:   69.7 | CH4:   70.8 | Aerosol:   85.3
+  • Delhi          :   73.9/100
+      NO2:  100.0 | CH4:   69.5 | Aerosol:   43.4
+  • Bangalore      :   72.6/100
+      NO2:   76.1 | CH4:   76.4 | Aerosol:   64.3
+  • Hyderabad      :   72.3/100
+      NO2:   66.3 | CH4:   77.4 | Aerosol:   75.3
+  • Delhi          :   72.3/100
+      NO2:   89.1 | CH4:   69.5 | Aerosol:   52.7
+  • Hyderabad      :   71.5/100
+      NO2:   62.4 | CH4:   91.3 | Aerosol:   63.6
+  • Mumbai         :   70.9/100
+      NO2:   72.2 | CH4:   54.0 | Aerosol:   86.0
+  • Bangalore      :   70.5/100
+      NO2:   95.4 | CH4:   56.5 | Aerosol:   51.3
+  • Mumbai         :   70.4/100
+      NO2:   87.3 | CH4:   66.4 | Aerosol:   51.8
+  • Hyderabad      :   70.3/100
+      NO2:   74.5 | CH4:   93.1 | Aerosol:   42.1
+  • Hyderabad      :   69.5/100
+      NO2:   80.7 | CH4:   55.2 | Aerosol:   68.9
+  • Delhi          :   69.2/100
+      NO2:   70.0 | CH4:   73.7 | Aerosol:   63.6
+  • Delhi          :   67.9/100
+      NO2:   77.4 | CH4:   50.0 | Aerosol:   73.1
+  • Bangalore      :   67.2/100
+      NO2:   52.6 | CH4:   85.1 | Aerosol:   68.8
+  • Hyderabad      :   66.9/100
+      NO2:   70.5 | CH4:   69.0 | Aerosol:   60.2
+  • Bangalore      :   66.4/100
+      NO2:   57.2 | CH4:   82.2 | Aerosol:   62.9
+  • Delhi          :   65.3/100
+      NO2:   52.8 | CH4:   67.2 | Aerosol:   80.2
+  • Hyderabad      :   65.1/100
+      NO2:   54.0 | CH4:   72.3 | Aerosol:   72.6
+  • Bangalore      :   64.9/100
+      NO2:   59.8 | CH4:   83.8 | Aerosol:   52.9
+  • Bangalore      :   64.6/100
+      NO2:   73.4 | CH4:   52.2 | Aerosol:   65.3
+  • Delhi          :   64.4/100
+      NO2:   52.2 | CH4:   76.2 | Aerosol:   68.7
+  • Bangalore      :   64.3/100
+      NO2:   67.5 | CH4:   61.3 | Aerosol:   63.0
+  • Mumbai         :   63.6/100
+      NO2:   54.0 | CH4:   67.4 | Aerosol:   72.5
+  • Hyderabad      :   63.0/100
+      NO2:   57.5 | CH4:   62.3 | Aerosol:   71.1
+  • Bangalore      :   63.0/100
+      NO2:   46.3 | CH4:   79.1 | Aerosol:   69.2
+  • Hyderabad      :   62.6/100
+      NO2:   67.6 | CH4:   53.2 | Aerosol:   65.3
+  • Hyderabad      :   62.5/100
+      NO2:   51.1 | CH4:   64.3 | Aerosol:   75.8
+  • Hyderabad      :   62.4/100
+      NO2:   44.7 | CH4:   61.4 | Aerosol:   87.0
+  • Mumbai         :   61.9/100
+      NO2:   57.2 | CH4:   67.2 | Aerosol:   62.9
+  • Hyderabad      :   61.6/100
+      NO2:   72.5 | CH4:   60.3 | Aerosol:   48.4
+  • Mumbai         :   61.6/100
+      NO2:   50.6 | CH4:   79.4 | Aerosol:   58.3
+  • Delhi          :   61.5/100
+      NO2:   63.7 | CH4:   77.8 | Aerosol:   42.2
+  • Mumbai         :   61.0/100
+      NO2:   55.8 | CH4:   77.5 | Aerosol:   51.5
+  • Bangalore      :   60.8/100
+      NO2:   73.4 | CH4:   56.7 | Aerosol:   48.0
+  • Hyderabad      :   60.5/100
+      NO2:   53.6 | CH4:   63.0 | Aerosol:   67.2
+  • Delhi          :   60.2/100
+      NO2:   40.6 | CH4:   77.5 | Aerosol:   69.1
+  • Bangalore      :   59.3/100
+      NO2:   65.9 | CH4:   61.5 | Aerosol:   48.4
+  • Delhi          :   59.3/100
+      NO2:   86.3 | CH4:   45.8 | Aerosol:   36.8
+  • Bangalore      :   59.1/100
+      NO2:   76.5 | CH4:   50.9 | Aerosol:   44.1
+  • Mumbai         :   58.8/100
+      NO2:   63.8 | CH4:   80.5 | Aerosol:   30.5
+  • Mumbai         :   58.2/100
+      NO2:   54.3 | CH4:   54.7 | Aerosol:   66.9
+  • Hyderabad      :   57.2/100
+      NO2:   61.7 | CH4:   62.5 | Aerosol:   45.9
+  • Mumbai         :   57.0/100
+      NO2:   49.1 | CH4:   61.0 | Aerosol:   63.5
+  • Bangalore      :   56.9/100
+      NO2:   74.8 | CH4:   55.7 | Aerosol:   34.3
+  • Mumbai         :   56.8/100
+      NO2:   43.4 | CH4:   69.8 | Aerosol:   61.7
+  • Bangalore      :   56.8/100
+      NO2:   32.9 | CH4:   71.7 | Aerosol:   73.7
+  • Mumbai         :   56.7/100
+      NO2:   69.7 | CH4:   42.7 | Aerosol:   53.5
+  • Mumbai         :   56.5/100
+      NO2:   43.7 | CH4:   48.3 | Aerosol:   81.7
+  • Delhi          :   56.4/100
+      NO2:   34.6 | CH4:   59.2 | Aerosol:   82.8
+  • Delhi          :   56.2/100
+      NO2:   47.9 | CH4:   69.3 | Aerosol:   54.1
+  • Delhi          :   56.1/100
+      NO2:   54.0 | CH4:   84.0 | Aerosol:   31.0
+  • Delhi          :   56.0/100
+      NO2:   34.8 | CH4:   59.0 | Aerosol:   81.2
+  • Hyderabad      :   55.9/100
+      NO2:   75.6 | CH4:   53.6 | Aerosol:   32.1
+  • Bangalore      :   55.9/100
+      NO2:   60.9 | CH4:   42.9 | Aerosol:   62.3
+  • Delhi          :   55.7/100
+      NO2:   32.5 | CH4:   71.6 | Aerosol:   70.9
+  • Bangalore      :   55.7/100
+      NO2:   51.3 | CH4:   55.6 | Aerosol:   61.6
+  • Bangalore      :   55.5/100
+      NO2:   43.1 | CH4:   67.7 | Aerosol:   59.8
+  • Hyderabad      :   54.9/100
+      NO2:   40.8 | CH4:   55.3 | Aerosol:   73.4
+  • Hyderabad      :   54.9/100
+      NO2:   54.1 | CH4:   64.5 | Aerosol:   46.3
+  • Hyderabad      :   54.7/100
+      NO2:   50.5 | CH4:   58.3 | Aerosol:   56.8
+  • Bangalore      :   54.5/100
+      NO2:   63.2 | CH4:   41.1 | Aerosol:   56.1
+  • Hyderabad      :   54.4/100
+      NO2:   62.6 | CH4:   52.2 | Aerosol:   45.6
+  • Hyderabad      :   54.3/100
+      NO2:   46.1 | CH4:   84.6 | Aerosol:   35.0
+  • Bangalore      :   52.9/100
+      NO2:   64.6 | CH4:   49.8 | Aerosol:   40.4
+  • Delhi          :   52.1/100
+      NO2:   41.0 | CH4:   50.6 | Aerosol:   68.3
+  • Bangalore      :   52.0/100
+      NO2:   16.9 | CH4:   74.9 | Aerosol:   76.0
+  • Delhi          :   52.0/100
+      NO2:   60.2 | CH4:   44.2 | Aerosol:   48.9
+  • Mumbai         :   51.8/100
+      NO2:   70.7 | CH4:   25.7 | Aerosol:   52.7
+  • Bangalore      :   51.7/100
+      NO2:   34.5 | CH4:   55.4 | Aerosol:   71.0
+  • Mumbai         :   51.5/100
+      NO2:    8.8 | CH4:   86.5 | Aerosol:   73.6
+  • Mumbai         :   51.4/100
+      NO2:   53.4 | CH4:   79.4 | Aerosol:   20.7
+  • Bangalore      :   51.4/100
+      NO2:   68.3 | CH4:   24.1 | Aerosol:   56.1
+  • Bangalore      :   51.2/100
+      NO2:   74.1 | CH4:   36.7 | Aerosol:   35.2
+  • Delhi          :   51.2/100
+      NO2:   52.6 | CH4:   55.0 | Aerosol:   45.4
+  • Mumbai         :   51.0/100
+      NO2:   38.9 | CH4:   60.2 | Aerosol:   58.1
+  • Mumbai         :   50.7/100
+      NO2:   48.7 | CH4:   52.3 | Aerosol:   51.8
+  • Delhi          :   50.7/100
+      NO2:   38.0 | CH4:   78.0 | Aerosol:   40.2
+  • Hyderabad      :   50.6/100
+      NO2:   53.9 | CH4:   39.3 | Aerosol:   57.6
+  • Mumbai         :   50.2/100
+      NO2:   58.3 | CH4:   62.9 | Aerosol:   26.8
+  • Mumbai         :   49.9/100
+      NO2:   45.6 | CH4:   63.6 | Aerosol:   41.9
+  • Delhi          :   49.8/100
+      NO2:   58.3 | CH4:   47.3 | Aerosol:   41.0
+  • Hyderabad      :   49.8/100
+      NO2:   52.5 | CH4:   52.9 | Aerosol:   43.0
+  • Mumbai         :   49.8/100
+      NO2:   27.7 | CH4:   39.8 | Aerosol:   89.1
+  • Bangalore      :   49.1/100
+      NO2:   70.8 | CH4:   37.5 | Aerosol:   31.7
+  • Hyderabad      :   48.9/100
+      NO2:   54.9 | CH4:   37.6 | Aerosol:   52.1
+  • Bangalore      :   48.4/100
+      NO2:   53.5 | CH4:   46.3 | Aerosol:   43.6
+  • Bangalore      :   48.3/100
+      NO2:   27.1 | CH4:   91.7 | Aerosol:   33.3
+  • Delhi          :   48.3/100
+      NO2:   25.1 | CH4:   70.3 | Aerosol:   57.1
+  • Delhi          :   48.2/100
+      NO2:   44.2 | CH4:   34.3 | Aerosol:   67.6
+  • Delhi          :   47.4/100
+      NO2:   54.5 | CH4:   43.6 | Aerosol:   41.9
+  • Delhi          :   47.4/100
+      NO2:   17.5 | CH4:   75.2 | Aerosol:   59.6
+  • Hyderabad      :   47.4/100
+      NO2:   47.6 | CH4:   58.6 | Aerosol:   36.0
+  • Mumbai         :   47.3/100
+      NO2:   48.0 | CH4:   44.3 | Aerosol:   49.4
+  • Bangalore      :   46.7/100
+      NO2:   49.1 | CH4:   60.9 | Aerosol:   29.2
+  • Delhi          :   46.5/100
+      NO2:   46.6 | CH4:   54.9 | Aerosol:   38.0
+  • Hyderabad      :   46.4/100
+      NO2:   55.2 | CH4:   41.0 | Aerosol:   40.1
+  • Bangalore      :   46.4/100
+      NO2:   44.4 | CH4:   52.8 | Aerosol:   42.6
+  • Mumbai         :   46.3/100
+      NO2:   36.3 | CH4:   43.3 | Aerosol:   62.7
+  • Mumbai         :   45.5/100
+      NO2:   47.0 | CH4:   61.0 | Aerosol:   28.0
+  • Mumbai         :   45.5/100
+      NO2:   39.8 | CH4:   69.0 | Aerosol:   29.5
+  • Bangalore      :   45.2/100
+      NO2:   40.2 | CH4:   57.1 | Aerosol:   39.8
+  • Bangalore      :   45.1/100
+      NO2:   50.7 | CH4:   40.9 | Aerosol:   41.8
+  • Delhi          :   45.0/100
+      NO2:   40.1 | CH4:   58.2 | Aerosol:   38.5
+  • Mumbai         :   44.7/100
+      NO2:   25.1 | CH4:   76.0 | Aerosol:   39.4
+  • Mumbai         :   44.3/100
+      NO2:   49.9 | CH4:   51.9 | Aerosol:   29.3
+  • Mumbai         :   43.7/100
+      NO2:   49.0 | CH4:   39.4 | Aerosol:   41.0
+  • Bangalore      :   43.4/100
+      NO2:   18.5 | CH4:   49.7 | Aerosol:   70.4
+  • Mumbai         :   43.2/100
+      NO2:   30.2 | CH4:   47.6 | Aerosol:   56.2
+  • Delhi          :   42.6/100
+      NO2:   52.7 | CH4:   26.8 | Aerosol:   44.8
+  • Delhi          :   41.5/100
+      NO2:   46.4 | CH4:   51.9 | Aerosol:   24.7
+  • Delhi          :   41.4/100
+      NO2:   26.5 | CH4:   57.7 | Aerosol:   45.1
+  • Bangalore      :   41.1/100
+      NO2:   24.3 | CH4:   63.7 | Aerosol:   41.0
+  • Bangalore      :   40.9/100
+      NO2:   40.6 | CH4:   38.1 | Aerosol:   44.0
+  • Hyderabad      :   40.9/100
+      NO2:   31.9 | CH4:   63.5 | Aerosol:   30.3
+  • Delhi          :   40.8/100
+      NO2:   45.4 | CH4:   26.6 | Aerosol:   49.0
+  • Bangalore      :   40.7/100
+      NO2:   41.8 | CH4:   41.5 | Aerosol:   38.5
+  • Hyderabad      :   40.5/100
+      NO2:   51.3 | CH4:   45.2 | Aerosol:   21.5
+  • Delhi          :   40.5/100
+      NO2:   30.4 | CH4:   72.8 | Aerosol:   21.6
+  • Delhi          :   40.5/100
+      NO2:   40.5 | CH4:   60.1 | Aerosol:   20.8
+  • Hyderabad      :   40.2/100
+      NO2:   30.4 | CH4:   78.4 | Aerosol:   14.9
+  • Hyderabad      :   39.9/100
+      NO2:   43.6 | CH4:   49.0 | Aerosol:   25.9
+  • Mumbai         :   39.8/100
+      NO2:   50.0 | CH4:   45.0 | Aerosol:   20.9
+  • Mumbai         :   39.6/100
+      NO2:   57.4 | CH4:    0.0 | Aerosol:   55.4
+  • Mumbai         :   38.9/100
+      NO2:   11.1 | CH4:   57.7 | Aerosol:   57.0
+  • Hyderabad      :   38.7/100
+      NO2:   20.9 | CH4:   44.6 | Aerosol:   56.5
+  • Hyderabad      :   38.4/100
+      NO2:   47.3 | CH4:   21.3 | Aerosol:   43.6
+  • Mumbai         :   38.0/100
+      NO2:   48.8 | CH4:   22.7 | Aerosol:   38.9
+  • Delhi          :   37.8/100
+      NO2:   30.5 | CH4:   27.5 | Aerosol:   57.9
+  • Mumbai         :   37.1/100
+      NO2:   27.1 | CH4:   49.1 | Aerosol:   38.5
+  • Hyderabad      :   37.1/100
+      NO2:   16.1 | CH4:   76.0 | Aerosol:   26.2
+  • Delhi          :   35.2/100
+      NO2:   22.9 | CH4:   57.2 | Aerosol:   29.5
+  • Mumbai         :   35.1/100
+      NO2:   41.1 | CH4:   27.9 | Aerosol:   34.4
+  • Hyderabad      :   34.7/100
+      NO2:   15.5 | CH4:   47.8 | Aerosol:   47.3
+  • Delhi          :   32.9/100
+      NO2:    0.0 | CH4:   56.9 | Aerosol:   52.8
+  • Hyderabad      :   32.9/100
+      NO2:   34.7 | CH4:   34.8 | Aerosol:   28.5
+  • Hyderabad      :   31.8/100
+      NO2:   21.6 | CH4:   42.7 | Aerosol:   34.4
+  • Bangalore      :   26.8/100
+      NO2:   41.1 | CH4:   34.3 | Aerosol:    0.0
+  • Delhi          :   24.2/100
+      NO2:   21.4 | CH4:   25.2 | Aerosol:   26.7
+
+Regional Climate Stress Index:
+
+  • Mumbai         :   93.0/100
+      Heat Stress:   93.9 | Vegetation Stress:   92.0
+  • Hyderabad      :   87.4/100
+      Heat Stress:   92.4 | Vegetation Stress:   82.4
+  • Hyderabad      :   84.6/100
+      Heat Stress:   86.9 | Vegetation Stress:   82.4
+  • Delhi          :   83.0/100
+      Heat Stress:   93.7 | Vegetation Stress:   72.4
+  • Mumbai         :   80.8/100
+      Heat Stress:   81.6 | Vegetation Stress:   80.0
+  • Mumbai         :   80.3/100
+      Heat Stress:   65.8 | Vegetation Stress:   94.9
+  • Hyderabad      :   79.9/100
+      Heat Stress:  100.0 | Vegetation Stress:   59.7
+  • Mumbai         :   79.5/100
+      Heat Stress:   63.8 | Vegetation Stress:   95.3
+  • Delhi          :   78.2/100
+      Heat Stress:   90.2 | Vegetation Stress:   66.2
+  • Bangalore      :   75.8/100
+      Heat Stress:   77.5 | Vegetation Stress:   74.1
+  • Mumbai         :   75.7/100
+      Heat Stress:   92.3 | Vegetation Stress:   59.2
+  • Hyderabad      :   75.7/100
+      Heat Stress:   90.6 | Vegetation Stress:   60.8
+  • Mumbai         :   75.6/100
+      Heat Stress:   89.8 | Vegetation Stress:   61.3
+  • Hyderabad      :   75.1/100
+      Heat Stress:   80.1 | Vegetation Stress:   70.0
+  • Bangalore      :   74.9/100
+      Heat Stress:   79.0 | Vegetation Stress:   70.7
+  • Bangalore      :   74.8/100
+      Heat Stress:   81.6 | Vegetation Stress:   67.9
+  • Bangalore      :   74.7/100
+      Heat Stress:   83.7 | Vegetation Stress:   65.8
+  • Bangalore      :   73.9/100
+      Heat Stress:   67.0 | Vegetation Stress:   80.8
+  • Bangalore      :   73.6/100
+      Heat Stress:   89.5 | Vegetation Stress:   57.8
+  • Bangalore      :   73.0/100
+      Heat Stress:   90.3 | Vegetation Stress:   55.7
+  • Mumbai         :   72.9/100
+      Heat Stress:   88.5 | Vegetation Stress:   57.3
+  • Hyderabad      :   72.6/100
+      Heat Stress:   85.8 | Vegetation Stress:   59.5
+  • Delhi          :   70.6/100
+      Heat Stress:   81.6 | Vegetation Stress:   59.7
+  • Delhi          :   69.7/100
+      Heat Stress:   92.3 | Vegetation Stress:   47.2
+  • Bangalore      :   68.2/100
+      Heat Stress:   90.9 | Vegetation Stress:   45.5
+  • Bangalore      :   67.9/100
+      Heat Stress:   76.0 | Vegetation Stress:   59.8
+  • Mumbai         :   67.6/100
+      Heat Stress:   88.0 | Vegetation Stress:   47.3
+  • Mumbai         :   67.1/100
+      Heat Stress:   79.8 | Vegetation Stress:   54.3
+  • Mumbai         :   66.8/100
+      Heat Stress:   72.1 | Vegetation Stress:   61.5
+  • Bangalore      :   66.8/100
+      Heat Stress:   69.6 | Vegetation Stress:   64.0
+  • Delhi          :   66.6/100
+      Heat Stress:   44.5 | Vegetation Stress:   88.6
+  • Delhi          :   65.9/100
+      Heat Stress:   55.1 | Vegetation Stress:   76.6
+  • Bangalore      :   65.7/100
+      Heat Stress:   65.9 | Vegetation Stress:   65.4
+  • Bangalore      :   65.4/100
+      Heat Stress:   86.9 | Vegetation Stress:   43.9
+  • Delhi          :   65.3/100
+      Heat Stress:   44.1 | Vegetation Stress:   86.6
+  • Hyderabad      :   65.0/100
+      Heat Stress:   64.3 | Vegetation Stress:   65.6
+  • Bangalore      :   64.6/100
+      Heat Stress:   73.4 | Vegetation Stress:   55.8
+  • Hyderabad      :   64.4/100
+      Heat Stress:   58.2 | Vegetation Stress:   70.6
+  • Hyderabad      :   63.9/100
+      Heat Stress:   60.0 | Vegetation Stress:   67.7
+  • Mumbai         :   63.7/100
+      Heat Stress:   68.0 | Vegetation Stress:   59.4
+  • Hyderabad      :   63.7/100
+      Heat Stress:   35.4 | Vegetation Stress:   92.0
+  • Mumbai         :   63.3/100
+      Heat Stress:   73.7 | Vegetation Stress:   53.0
+  • Mumbai         :   63.1/100
+      Heat Stress:   72.6 | Vegetation Stress:   53.7
+  • Delhi          :   63.0/100
+      Heat Stress:   53.6 | Vegetation Stress:   72.4
+  • Hyderabad      :   62.5/100
+      Heat Stress:   67.8 | Vegetation Stress:   57.2
+  • Delhi          :   62.3/100
+      Heat Stress:   76.3 | Vegetation Stress:   48.3
+  • Mumbai         :   62.0/100
+      Heat Stress:   63.1 | Vegetation Stress:   61.0
+  • Delhi          :   61.7/100
+      Heat Stress:   58.2 | Vegetation Stress:   65.3
+  • Delhi          :   61.3/100
+      Heat Stress:   57.5 | Vegetation Stress:   65.1
+  • Hyderabad      :   61.1/100
+      Heat Stress:   51.6 | Vegetation Stress:   70.6
+  • Bangalore      :   61.1/100
+      Heat Stress:   71.7 | Vegetation Stress:   50.5
+  • Mumbai         :   61.0/100
+      Heat Stress:   46.2 | Vegetation Stress:   75.8
+  • Delhi          :   61.0/100
+      Heat Stress:   21.9 | Vegetation Stress:  100.0
+  • Mumbai         :   60.7/100
+      Heat Stress:   47.9 | Vegetation Stress:   73.5
+  • Delhi          :   60.7/100
+      Heat Stress:   66.2 | Vegetation Stress:   55.1
+  • Delhi          :   60.6/100
+      Heat Stress:   62.4 | Vegetation Stress:   58.8
+  • Bangalore      :   60.5/100
+      Heat Stress:   77.2 | Vegetation Stress:   43.8
+  • Hyderabad      :   60.5/100
+      Heat Stress:   58.3 | Vegetation Stress:   62.7
+  • Delhi          :   60.4/100
+      Heat Stress:   67.4 | Vegetation Stress:   53.3
+  • Mumbai         :   59.0/100
+      Heat Stress:   77.1 | Vegetation Stress:   40.9
+  • Delhi          :   58.8/100
+      Heat Stress:   64.6 | Vegetation Stress:   53.0
+  • Delhi          :   58.8/100
+      Heat Stress:   79.7 | Vegetation Stress:   37.9
+  • Delhi          :   58.5/100
+      Heat Stress:   62.6 | Vegetation Stress:   54.3
+  • Bangalore      :   58.2/100
+      Heat Stress:   64.8 | Vegetation Stress:   51.6
+  • Hyderabad      :   57.7/100
+      Heat Stress:   58.8 | Vegetation Stress:   56.6
+  • Bangalore      :   57.4/100
+      Heat Stress:   22.7 | Vegetation Stress:   92.1
+  • Hyderabad      :   57.2/100
+      Heat Stress:   68.6 | Vegetation Stress:   45.8
+  • Mumbai         :   56.6/100
+      Heat Stress:   44.8 | Vegetation Stress:   68.3
+  • Delhi          :   55.7/100
+      Heat Stress:   40.6 | Vegetation Stress:   70.7
+  • Mumbai         :   55.6/100
+      Heat Stress:   63.6 | Vegetation Stress:   47.5
+  • Delhi          :   55.1/100
+      Heat Stress:   61.1 | Vegetation Stress:   49.1
+  • Mumbai         :   55.0/100
+      Heat Stress:   27.2 | Vegetation Stress:   82.9
+  • Hyderabad      :   55.0/100
+      Heat Stress:   69.7 | Vegetation Stress:   40.4
+  • Hyderabad      :   54.8/100
+      Heat Stress:   55.1 | Vegetation Stress:   54.5
+  • Hyderabad      :   54.7/100
+      Heat Stress:   30.9 | Vegetation Stress:   78.4
+  • Mumbai         :   54.6/100
+      Heat Stress:   46.9 | Vegetation Stress:   62.4
+  • Delhi          :   54.5/100
+      Heat Stress:   55.8 | Vegetation Stress:   53.1
+  • Mumbai         :   54.0/100
+      Heat Stress:   53.6 | Vegetation Stress:   54.4
+  • Bangalore      :   53.7/100
+      Heat Stress:   38.7 | Vegetation Stress:   68.7
+  • Mumbai         :   53.4/100
+      Heat Stress:   64.0 | Vegetation Stress:   42.8
+  • Mumbai         :   53.2/100
+      Heat Stress:   56.2 | Vegetation Stress:   50.2
+  • Hyderabad      :   52.6/100
+      Heat Stress:   44.9 | Vegetation Stress:   60.2
+  • Hyderabad      :   52.5/100
+      Heat Stress:   58.8 | Vegetation Stress:   46.3
+  • Mumbai         :   52.4/100
+      Heat Stress:   58.9 | Vegetation Stress:   45.9
+  • Hyderabad      :   51.1/100
+      Heat Stress:   11.8 | Vegetation Stress:   90.4
+  • Bangalore      :   51.0/100
+      Heat Stress:   53.5 | Vegetation Stress:   48.5
+  • Hyderabad      :   50.9/100
+      Heat Stress:   56.8 | Vegetation Stress:   45.1
+  • Bangalore      :   50.8/100
+      Heat Stress:   54.2 | Vegetation Stress:   47.4
+  • Hyderabad      :   50.6/100
+      Heat Stress:   49.1 | Vegetation Stress:   52.2
+  • Bangalore      :   50.2/100
+      Heat Stress:   39.4 | Vegetation Stress:   61.1
+  • Bangalore      :   50.2/100
+      Heat Stress:   59.9 | Vegetation Stress:   40.5
+  • Hyderabad      :   50.2/100
+      Heat Stress:   70.9 | Vegetation Stress:   29.5
+  • Hyderabad      :   50.1/100
+      Heat Stress:   46.4 | Vegetation Stress:   53.7
+  • Bangalore      :   49.7/100
+      Heat Stress:   52.2 | Vegetation Stress:   47.2
+  • Mumbai         :   49.2/100
+      Heat Stress:   45.8 | Vegetation Stress:   52.6
+  • Hyderabad      :   49.0/100
+      Heat Stress:   32.6 | Vegetation Stress:   65.4
+  • Bangalore      :   48.8/100
+      Heat Stress:   38.3 | Vegetation Stress:   59.2
+  • Delhi          :   48.4/100
+      Heat Stress:   45.9 | Vegetation Stress:   50.8
+  • Bangalore      :   47.2/100
+      Heat Stress:   45.1 | Vegetation Stress:   49.3
+  • Mumbai         :   46.6/100
+      Heat Stress:   43.5 | Vegetation Stress:   49.7
+  • Hyderabad      :   46.5/100
+      Heat Stress:   58.7 | Vegetation Stress:   34.3
+  • Hyderabad      :   46.2/100
+      Heat Stress:   49.0 | Vegetation Stress:   43.5
+  • Hyderabad      :   46.2/100
+      Heat Stress:   41.0 | Vegetation Stress:   51.5
+  • Hyderabad      :   45.9/100
+      Heat Stress:   44.2 | Vegetation Stress:   47.7
+  • Bangalore      :   45.8/100
+      Heat Stress:   57.2 | Vegetation Stress:   34.3
+  • Delhi          :   45.4/100
+      Heat Stress:   64.0 | Vegetation Stress:   26.9
+  • Delhi          :   45.3/100
+      Heat Stress:   25.2 | Vegetation Stress:   65.5
+  • Bangalore      :   45.0/100
+      Heat Stress:   40.2 | Vegetation Stress:   49.9
+  • Bangalore      :   44.9/100
+      Heat Stress:   29.0 | Vegetation Stress:   60.8
+  • Delhi          :   43.7/100
+      Heat Stress:   25.9 | Vegetation Stress:   61.4
+  • Bangalore      :   43.4/100
+      Heat Stress:   45.8 | Vegetation Stress:   41.0
+  • Mumbai         :   43.1/100
+      Heat Stress:   24.8 | Vegetation Stress:   61.3
+  • Delhi          :   42.2/100
+      Heat Stress:   34.3 | Vegetation Stress:   50.1
+  • Delhi          :   41.5/100
+      Heat Stress:   38.9 | Vegetation Stress:   44.1
+  • Mumbai         :   41.4/100
+      Heat Stress:   41.5 | Vegetation Stress:   41.2
+  • Mumbai         :   41.0/100
+      Heat Stress:   32.1 | Vegetation Stress:   49.9
+  • Mumbai         :   40.7/100
+      Heat Stress:   28.4 | Vegetation Stress:   53.1
+  • Hyderabad      :   40.1/100
+      Heat Stress:   52.7 | Vegetation Stress:   27.5
+  • Hyderabad      :   39.9/100
+      Heat Stress:   29.8 | Vegetation Stress:   50.1
+  • Delhi          :   39.9/100
+      Heat Stress:   47.0 | Vegetation Stress:   32.8
+  • Mumbai         :   38.9/100
+      Heat Stress:   28.9 | Vegetation Stress:   49.0
+  • Mumbai         :   38.8/100
+      Heat Stress:   35.7 | Vegetation Stress:   41.9
+  • Delhi          :   38.6/100
+      Heat Stress:   38.7 | Vegetation Stress:   38.5
+  • Delhi          :   38.3/100
+      Heat Stress:   34.5 | Vegetation Stress:   42.2
+  • Hyderabad      :   38.1/100
+      Heat Stress:   26.7 | Vegetation Stress:   49.5
+  • Delhi          :   38.0/100
+      Heat Stress:   36.5 | Vegetation Stress:   39.5
+  • Hyderabad      :   37.5/100
+      Heat Stress:   24.3 | Vegetation Stress:   50.7
+  • Bangalore      :   37.1/100
+      Heat Stress:   42.5 | Vegetation Stress:   31.6
+  • Mumbai         :   36.9/100
+      Heat Stress:   19.5 | Vegetation Stress:   54.4
+  • Bangalore      :   36.9/100
+      Heat Stress:   37.8 | Vegetation Stress:   36.1
+  • Delhi          :   36.6/100
+      Heat Stress:   41.7 | Vegetation Stress:   31.4
+  • Hyderabad      :   36.4/100
+      Heat Stress:   39.2 | Vegetation Stress:   33.6
+  • Mumbai         :   36.3/100
+      Heat Stress:    0.0 | Vegetation Stress:   72.5
+  • Bangalore      :   35.9/100
+      Heat Stress:   37.7 | Vegetation Stress:   34.1
+  • Bangalore      :   35.4/100
+      Heat Stress:   14.2 | Vegetation Stress:   56.6
+  • Bangalore      :   33.0/100
+      Heat Stress:   27.6 | Vegetation Stress:   38.4
+  • Delhi          :   32.5/100
+      Heat Stress:   14.9 | Vegetation Stress:   50.1
+  • Delhi          :   32.0/100
+      Heat Stress:   34.6 | Vegetation Stress:   29.5
+  • Delhi          :   31.9/100
+      Heat Stress:   24.7 | Vegetation Stress:   39.0
+  • Bangalore      :   30.0/100
+      Heat Stress:   26.7 | Vegetation Stress:   33.2
+  • Hyderabad      :   29.9/100
+      Heat Stress:   28.0 | Vegetation Stress:   31.8
+  • Mumbai         :   27.5/100
+      Heat Stress:   23.2 | Vegetation Stress:   31.9
+  • Delhi          :   15.3/100
+      Heat Stress:   30.5 | Vegetation Stress:    0.0
+  • Bangalore      :   13.7/100
+      Heat Stress:   12.4 | Vegetation Stress:   15.0
+
+Regional ESG Ratings:
+
+  • Bangalore      : A   (Score:   23.0)
+      E:   47.5 | S:    0.0 | G:   16.1
+  • Hyderabad      : A   (Score:   25.2)
+      E:   35.0 | S:   14.9 | G:   24.1
+  • Delhi          : A   (Score:   26.3)
+      E:   33.2 | S:   26.7 | G:   14.5
+  • Hyderabad      : A   (Score:   29.1)
+      E:   35.5 | S:   28.5 | G:   19.7
+  • Hyderabad      : A   (Score:   29.7)
+      E:   40.2 | S:   21.5 | G:   24.3
+  • Mumbai         : A   (Score:   32.1)
+      E:   37.0 | S:   34.4 | G:   21.1
+  • Mumbai         : A   (Score:   33.0)
+      E:   49.4 | S:   20.9 | G:   23.9
+  • Hyderabad      : A   (Score:   33.1)
+      E:   46.1 | S:   26.2 | G:   22.2
+  • Delhi          : A   (Score:   33.5)
+      E:   49.6 | S:   21.6 | G:   24.3
+  • Mumbai         : A   (Score:   34.0)
+      E:   42.8 | S:   29.3 | G:   26.6
+  • Delhi          : A   (Score:   34.0)
+      E:   51.7 | S:   20.8 | G:   24.3
+  • Mumbai         : A   (Score:   34.2)
+      E:   43.2 | S:   26.8 | G:   30.1
+  • Delhi          : A   (Score:   34.4)
+      E:   47.0 | S:   29.5 | G:   21.1
+  • Hyderabad      : A   (Score:   34.6)
+      E:   48.8 | S:   25.9 | G:   23.9
+  • Delhi          : B   (Score:   36.2)
+      E:   53.4 | S:   24.7 | G:   24.9
+  • Mumbai         : B   (Score:   36.7)
+      E:   48.9 | S:   29.5 | G:   27.3
+  • Bangalore      : B   (Score:   36.8)
+      E:   40.3 | S:   39.8 | G:   27.1
+  • Hyderabad      : B   (Score:   37.9)
+      E:   52.9 | S:   30.3 | G:   24.5
+  • Mumbai         : B   (Score:   37.9)
+      E:   46.5 | S:   38.9 | G:   22.8
+  • Bangalore      : B   (Score:   38.0)
+      E:   47.8 | S:   33.3 | G:   29.0
+  • Delhi          : B   (Score:   38.3)
+      E:   41.1 | S:   41.0 | G:   29.9
+  • Delhi          : B   (Score:   38.4)
+      E:   33.6 | S:   48.9 | G:   31.2
+  • Delhi          : B   (Score:   38.5)
+      E:   41.2 | S:   44.8 | G:   25.5
+  • Delhi          : B   (Score:   38.8)
+      E:   38.3 | S:   52.8 | G:   19.7
+  • Mumbai         : B   (Score:   38.8)
+      E:   59.5 | S:   20.7 | G:   30.8
+  • Bangalore      : B   (Score:   38.8)
+      E:   45.7 | S:   41.0 | G:   24.7
+  • Hyderabad      : B   (Score:   38.9)
+      E:   42.9 | S:   47.3 | G:   20.8
+  • Hyderabad      : B   (Score:   40.0)
+      E:   51.1 | S:   32.1 | G:   33.6
+  • Bangalore      : B   (Score:   40.1)
+      E:   57.3 | S:   29.2 | G:   28.0
+  • Delhi          : B   (Score:   40.2)
+      E:   41.6 | S:   45.4 | G:   30.7
+  • Delhi          : B   (Score:   40.3)
+      E:   50.1 | S:   38.5 | G:   27.0
+  • Hyderabad      : B   (Score:   40.3)
+      E:   48.2 | S:   40.1 | G:   27.9
+  • Hyderabad      : B   (Score:   40.5)
+      E:   50.3 | S:   35.0 | G:   32.6
+  • Delhi          : B   (Score:   40.5)
+      E:   43.1 | S:   49.0 | G:   24.5
+  • Hyderabad      : B   (Score:   40.6)
+      E:   59.6 | S:   34.4 | G:   19.1
+  • Hyderabad      : B   (Score:   40.9)
+      E:   49.8 | S:   43.6 | G:   23.0
+  • Bangalore      : B   (Score:   41.1)
+      E:   51.4 | S:   34.3 | G:   34.2
+  • Bangalore      : B   (Score:   41.2)
+      E:   46.7 | S:   43.6 | G:   29.0
+  • Delhi          : B   (Score:   41.5)
+      E:   49.5 | S:   40.2 | G:   30.4
+  • Delhi          : B   (Score:   41.6)
+      E:   55.9 | S:   31.0 | G:   33.7
+  • Bangalore      : B   (Score:   41.6)
+      E:   57.9 | S:   31.7 | G:   29.4
+  • Mumbai         : B   (Score:   41.8)
+      E:   39.9 | S:   57.0 | G:   23.3
+  • Delhi          : B   (Score:   41.8)
+      E:   39.7 | S:   57.9 | G:   22.7
+  • Bangalore      : B   (Score:   41.8)
+      E:   50.7 | S:   44.0 | G:   24.5
+  • Mumbai         : B   (Score:   41.9)
+      E:   63.1 | S:   28.0 | G:   27.3
+  • Delhi          : B   (Score:   41.9)
+      E:   54.1 | S:   38.0 | G:   27.9
+  • Mumbai         : B   (Score:   42.0)
+      E:   52.9 | S:   41.0 | G:   26.2
+  • Hyderabad      : B   (Score:   42.1)
+      E:   55.9 | S:   36.0 | G:   28.4
+  • Mumbai         : B   (Score:   42.5)
+      E:   58.7 | S:   38.5 | G:   22.3
+  • Bangalore      : B   (Score:   42.7)
+      E:   57.7 | S:   38.5 | G:   24.4
+  • Bangalore      : B   (Score:   42.8)
+      E:   52.3 | S:   42.6 | G:   27.8
+  • Mumbai         : B   (Score:   42.9)
+      E:   51.9 | S:   41.9 | G:   29.9
+  • Bangalore      : B   (Score:   43.4)
+      E:   53.3 | S:   40.4 | G:   31.8
+  • Mumbai         : B   (Score:   43.5)
+      E:   59.9 | S:   30.5 | G:   35.3
+  • Bangalore      : B   (Score:   43.8)
+      E:   34.7 | S:   61.6 | G:   33.4
+  • Hyderabad      : B   (Score:   43.8)
+      E:   45.6 | S:   56.5 | G:   23.2
+  • Mumbai         : B   (Score:   44.1)
+      E:   42.1 | S:   53.5 | G:   34.0
+  • Mumbai         : B   (Score:   44.4)
+      E:   47.6 | S:   55.4 | G:   23.7
+  • Delhi          : B   (Score:   44.4)
+      E:   56.6 | S:   41.9 | G:   28.5
+  • Delhi          : B   (Score:   44.5)
+      E:   43.3 | S:   57.1 | G:   29.0
+  • Mumbai         : B   (Score:   44.6)
+      E:   60.2 | S:   39.4 | G:   26.8
+  • Mumbai         : B   (Score:   44.7)
+      E:   46.3 | S:   52.7 | G:   31.1
+  • Hyderabad      : B   (Score:   45.0)
+      E:   56.1 | S:   43.0 | G:   29.9
+  • Bangalore      : B   (Score:   45.2)
+      E:   59.5 | S:   41.8 | G:   27.0
+  • Mumbai         : B   (Score:   45.2)
+      E:   48.7 | S:   51.8 | G:   30.4
+  • Hyderabad      : B   (Score:   45.4)
+      E:   49.5 | S:   52.1 | G:   29.3
+  • Bangalore      : B   (Score:   45.4)
+      E:   63.5 | S:   35.2 | G:   30.7
+  • Delhi          : B   (Score:   45.8)
+      E:   60.0 | S:   36.8 | G:   35.6
+  • Hyderabad      : B   (Score:   45.9)
+      E:   53.1 | S:   45.9 | G:   34.3
+  • Mumbai         : B   (Score:   45.9)
+      E:   42.6 | S:   62.7 | G:   27.8
+  • Bangalore      : B   (Score:   46.3)
+      E:   54.9 | S:   44.1 | G:   35.4
+  • Hyderabad      : B   (Score:   46.3)
+      E:   45.5 | S:   56.8 | G:   32.8
+  • Delhi          : B   (Score:   46.3)
+      E:   47.4 | S:   54.1 | G:   33.7
+  • Mumbai         : B   (Score:   46.6)
+      E:   55.5 | S:   49.4 | G:   28.4
+  • Delhi          : B   (Score:   46.9)
+      E:   62.2 | S:   45.1 | G:   24.9
+  • Bangalore      : B   (Score:   47.2)
+      E:   47.4 | S:   52.9 | G:   39.0
+  • Mumbai         : B   (Score:   47.5)
+      E:   53.3 | S:   56.2 | G:   25.9
+  • Bangalore      : B   (Score:   47.5)
+      E:   50.5 | S:   56.1 | G:   30.8
+  • Mumbai         : B   (Score:   48.0)
+      E:   50.1 | S:   58.1 | G:   30.6
+  • Bangalore      : B   (Score:   48.3)
+      E:   55.9 | S:   48.0 | G:   36.5
+  • Delhi          : B   (Score:   48.7)
+      E:   56.0 | S:   43.4 | G:   44.3
+  • Hyderabad      : B   (Score:   48.8)
+      E:   52.7 | S:   57.6 | G:   30.4
+  • Hyderabad      : B   (Score:   49.0)
+      E:   57.1 | S:   48.4 | G:   37.0
+  • Hyderabad      : B   (Score:   49.5)
+      E:   60.6 | S:   42.1 | G:   42.2
+  • Bangalore      : B   (Score:   49.9)
+      E:   46.8 | S:   70.4 | G:   26.1
+  • Delhi          : C   (Score:   50.4)
+      E:   66.1 | S:   42.2 | G:   36.9
+  • Hyderabad      : C   (Score:   50.6)
+      E:   65.3 | S:   46.3 | G:   32.9
+  • Bangalore      : C   (Score:   50.6)
+      E:   62.0 | S:   48.4 | G:   35.6
+  • Hyderabad      : C   (Score:   51.0)
+      E:   67.1 | S:   45.6 | G:   32.6
+  • Delhi          : C   (Score:   51.1)
+      E:   54.4 | S:   52.7 | G:   43.4
+  • Mumbai         : C   (Score:   51.1)
+      E:   49.4 | S:   62.9 | G:   37.1
+  • Delhi          : C   (Score:   51.4)
+      E:   58.6 | S:   59.6 | G:   28.5
+  • Bangalore      : C   (Score:   51.8)
+      E:   59.9 | S:   56.1 | G:   32.7
+  • Bangalore      : C   (Score:   52.1)
+      E:   48.8 | S:   65.3 | G:   38.8
+  • Bangalore      : C   (Score:   52.4)
+      E:   51.1 | S:   62.9 | G:   39.8
+  • Hyderabad      : C   (Score:   52.7)
+      E:   50.3 | S:   67.2 | G:   36.3
+  • Delhi          : C   (Score:   52.8)
+      E:   54.8 | S:   67.6 | G:   28.9
+  • Mumbai         : C   (Score:   53.4)
+      E:   61.9 | S:   51.8 | G:   42.2
+  • Delhi          : C   (Score:   54.2)
+      E:   56.2 | S:   68.3 | G:   31.3
+  • Delhi          : C   (Score:   54.4)
+      E:   43.9 | S:   81.2 | G:   33.6
+  • Bangalore      : C   (Score:   54.4)
+      E:   54.6 | S:   71.0 | G:   31.0
+  • Mumbai         : C   (Score:   54.5)
+      E:   68.3 | S:   51.5 | G:   36.6
+  • Bangalore      : C   (Score:   55.0)
+      E:   52.1 | S:   68.8 | G:   40.3
+  • Delhi          : C   (Score:   55.2)
+      E:   55.1 | S:   70.9 | G:   33.4
+  • Bangalore      : C   (Score:   55.3)
+      E:   54.8 | S:   64.3 | G:   43.6
+  • Bangalore      : C   (Score:   55.3)
+      E:   65.1 | S:   59.8 | G:   33.3
+  • Bangalore      : C   (Score:   55.4)
+      E:   52.8 | S:   73.7 | G:   34.1
+  • Mumbai         : C   (Score:   55.6)
+      E:   62.0 | S:   63.5 | G:   34.2
+  • Hyderabad      : C   (Score:   55.7)
+      E:   51.3 | S:   72.6 | G:   39.0
+  • Hyderabad      : C   (Score:   55.7)
+      E:   58.7 | S:   65.3 | G:   37.5
+  • Bangalore      : C   (Score:   55.8)
+      E:   68.1 | S:   51.3 | G:   42.3
+  • Bangalore      : C   (Score:   56.0)
+      E:   64.5 | S:   62.3 | G:   33.6
+  • Hyderabad      : C   (Score:   56.2)
+      E:   54.8 | S:   71.1 | G:   37.8
+  • Bangalore      : C   (Score:   56.7)
+      E:   62.7 | S:   63.0 | G:   38.6
+  • Mumbai         : C   (Score:   57.2)
+      E:   59.2 | S:   73.6 | G:   30.9
+  • Mumbai         : C   (Score:   57.4)
+      E:   68.2 | S:   61.7 | G:   34.1
+  • Delhi          : C   (Score:   57.4)
+      E:   60.4 | S:   69.1 | G:   36.1
+  • Hyderabad      : C   (Score:   57.6)
+      E:   57.7 | S:   68.9 | G:   41.7
+  • Mumbai         : C   (Score:   58.3)
+      E:   65.5 | S:   66.9 | G:   34.9
+  • Delhi          : C   (Score:   58.7)
+      E:   65.1 | S:   63.6 | G:   41.5
+  • Hyderabad      : C   (Score:   58.7)
+      E:   64.3 | S:   63.6 | G:   42.9
+  • Mumbai         : C   (Score:   58.9)
+      E:   60.1 | S:   72.5 | G:   38.1
+  • Mumbai         : C   (Score:   59.0)
+      E:   54.8 | S:   81.7 | G:   33.9
+  • Hyderabad      : C   (Score:   59.4)
+      E:   63.8 | S:   73.4 | G:   33.0
+  • Hyderabad      : C   (Score:   59.5)
+      E:   71.0 | S:   60.2 | G:   40.2
+  • Bangalore      : C   (Score:   59.8)
+      E:   63.4 | S:   76.0 | G:   31.2
+  • Delhi          : C   (Score:   59.9)
+      E:   65.5 | S:   68.7 | G:   38.6
+  • Delhi          : C   (Score:   60.0)
+      E:   55.4 | S:   80.2 | G:   39.2
+  • Delhi          : C   (Score:   60.4)
+      E:   57.4 | S:   82.8 | G:   33.9
+  • Hyderabad      : C   (Score:   60.5)
+      E:   61.5 | S:   75.8 | G:   37.5
+  • Mumbai         : C   (Score:   60.6)
+      E:   77.3 | S:   58.3 | G:   36.9
+  • Bangalore      : C   (Score:   61.0)
+      E:   68.3 | S:   69.2 | G:   37.8
+  • Mumbai         : C   (Score:   61.2)
+      E:   56.4 | S:   89.1 | G:   29.9
+  • Hyderabad      : C   (Score:   61.5)
+      E:   70.0 | S:   63.2 | G:   45.6
+  • Hyderabad      : C   (Score:   62.4)
+      E:   56.5 | S:   87.0 | G:   37.4
+  • Mumbai         : C   (Score:   62.7)
+      E:   66.9 | S:   68.7 | G:   47.5
+  • Mumbai         : C   (Score:   63.5)
+      E:   57.0 | S:   86.0 | G:   42.5
+  • Delhi          : C   (Score:   65.0)
+      E:   73.0 | S:   73.1 | G:   40.7
+  • Mumbai         : D   (Score:   66.0)
+      E:   68.5 | S:   77.6 | G:   45.8
+  • Hyderabad      : D   (Score:   68.6)
+      E:   78.5 | S:   75.3 | G:   43.4
+  • Hyderabad      : D   (Score:   68.8)
+      E:   69.2 | S:   85.3 | G:   44.8
+  • Bangalore      : D   (Score:   73.3)
+      E:   65.7 | S:   96.8 | G:   52.7
+  • Delhi          : D   (Score:   73.9)
+      E:   68.9 | S:  100.0 | G:   45.3
+  • Bangalore      : D   (Score:   74.1)
+      E:   66.3 | S:   98.4 | G:   52.6
+
+================================================================================
+4. ML MODEL PERFORMANCE
+================================================================================
+
+XGBoost Return Prediction (5-day forecast):
+
+  • INFY.NS        : R²=-0.080, RMSE=0.0186, MAE=0.0134
+  • MARUTI.NS      : R²=-0.144, RMSE=0.0166, MAE=0.0127
+  • WIPRO.NS       : R²=-0.177, RMSE=0.0169, MAE=0.0122
+  • HEROMOTOCO.NS  : R²=-0.225, RMSE=0.0199, MAE=0.0158
+  • RELIANCE.NS    : R²=-0.251, RMSE=0.0156, MAE=0.0121
+  • TCS.NS         : R²=-0.388, RMSE=0.0182, MAE=0.0135
+
+Average XGBoost Performance:
+  • R² Score: -0.211
+  • RMSE: 0.0176
+  • MAE: 0.0133
+
+Random Forest Risk Scoring:
+  • Average R²: 0.928
+  • Average RMSE: 0.2489
+
+================================================================================
+5. SECTOR ANALYSIS
+================================================================================
+
+IT             :
+  • Avg ESG Risk: 42.9/100
+  • Avg Climate Sensitivity: 0.30
+  • Avg Investment Score: 59.5/100
+  • Stocks: 3
+Energy         :
+  • Avg ESG Risk: 34.2/100
+  • Avg Climate Sensitivity: 0.85
+  • Avg Investment Score: 58.6/100
+  • Stocks: 1
+Auto           :
+  • Avg ESG Risk: 65.0/100
+  • Avg Climate Sensitivity: 0.70
+  • Avg Investment Score: 46.8/100
+  • Stocks: 2
+
+================================================================================
+6. KEY INSIGHTS & RECOMMENDATIONS
+================================================================================
+
+1. ENVIRONMENTAL TRENDS:
+   • Highest pollution risk: Bangalore
+   • Highest climate stress: Mumbai
+   • Most sustainable region: Delhi
+
+2. SECTOR POSITIONING:
+   • Most at-risk sector: Auto
+     (Avg ESG Risk: 65.0/100)
+   • Most resilient sector: Energy
+     (Avg ESG Risk: 34.2/100)
+
+3. INVESTMENT OPPORTUNITIES:
+   • Strong BUY signals: 0 stocks identified
+   • High-confidence positions: 0 stocks
+   • Low-risk, high-growth potential: 0 stocks
+
+4. CLIMATE RISK ALERTS:
+   • Stocks with very high ESG risk: 0
+   • High climate sensitivity sectors: Energy, Metals, Cement
+   • Regulatory risk: 2 stocks facing increased regulatory pressure
+
+================================================================================
+7. ACTION ITEMS
+================================================================================
+
+Immediate Actions (Next 30 days):
+  1. Increase exposure to BUY-rated stocks with Low/Medium risk
+  2. Monitor high-risk stocks weekly for deterioration
+  3. Review sector rotation towards less climate-sensitive sectors
+  4. Establish climate risk hedges for Energy/Metals exposure
+
+Medium-term Actions (1-3 months):
+  1. Quarterly rebalancing based on satellite data updates
+  2. Conduct deep-dive ESG analysis on REDUCE-rated stocks
+  3. Integrate this framework into ESG fund strategy
+  4. Establish climate alpha premium in risk pricing
+
+Long-term Strategy (3+ months):
+  1. Expand analysis to global markets
+  2. Develop climate scenario analysis
+  3. Build proprietary ESG database
+  4. Monetize climate intelligence for institutional clients
+
+================================================================================
+8. METHODOLOGY & VALIDATION
+================================================================================
+
+Data Sources:
+  • Google Earth Engine: Sentinel-5P TROPOMI, MODIS
+  • Financial Data: Yahoo Finance API
+  • Analysis Period: 2023-05-22 to 2026-05-21
+
+ML Models:
+  • Primary: XGBoost for return prediction
+  • Secondary: Random Forest for risk scoring
+  • Time Horizon: 5-day forward returns
+
+Feature Engineering:
+  • Lagged features: [1, 5, 10, 20]
+  • Rolling windows: [5, 10, 20] days
+  • Interaction features: Environmental × Market
+
+Validation:
+  • Cross-validation: 5-fold time series
+  • Test set: 20% of data
+  • Out-of-sample R² Score: -0.211
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║ Report Confidence: 0/6 HIGH confidence signals                                          ║
+║ Next Update: Quarterly or upon significant environmental changes              ║
+║ For technical details: See methodology documentation                           ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
